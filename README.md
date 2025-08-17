@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Poorna Madhushan  
-### 💼 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+%26+Cloud+Enthusiast;Tech+Speaker;Founder+@Devnox+Tech" alt="Typing SVG" />
+### 💼 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00FFDD&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%26+Cloud+Enthusiast;Tech+Speaker;Founder+@Devnox+Tech" alt="Typing SVG" />
 
 Passionate about building innovative solutions with **AI, Cloud, and Modern Web Development**.  
+
 
 ---
 
