@@ -15,14 +15,6 @@ Passionate about building innovative solutions with **AI, Cloud, and Modern Web 
 
 ---
 
-## 💻 Tech Stack
-**Languages:** C++, C#, Java, PHP, JavaScript, TypeScript, Python, Kotlin  
-**Frameworks:** Laravel, Spring Boot, .NET, React, Flutter, Express.js, TailwindCSS  
-**Cloud & DevOps:** Azure, AWS, Docker, Kubernetes, CI/CD  
-**Databases & Tools:** MySQL, MongoDB, Azure SQL, Postman, GraphQL, Power BI, Figma, Adobe Suite  
-
----
-
 ## 📈 Current Projects
 - 🤖 **AI & Automation** – Chatbots & AI tools (Python, OpenAI GPT, Azure)  
 - ☁️ **Cloud Solutions** – Cloud-native apps & microservices  
