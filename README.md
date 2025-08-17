@@ -88,7 +88,9 @@ Passionate about building innovative solutions with **AI, Cloud, and Modern Web 
 # 📊 GitHub Stats:  
 
 ![](https://github-readme-stats.vercel.app/api?username=Poornamadhushan&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)  
+---
 ![](https://nirzak-streak-stats.vercel.app/?user=Poornamadhushan&theme=github_dark&hide_border=false)  
+---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Poornamadhushan&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 ---
