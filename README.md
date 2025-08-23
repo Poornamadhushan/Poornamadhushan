@@ -91,12 +91,10 @@ Passionate about building innovative solutions with **AI, Cloud, and Modern Web 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Poornamadhushan&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 ---
-## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Poornamadhushan/Poornamadhushan/blob/output/github-contribution-grid-snake.svg)
+## 📊 Developer Metrics
 
-
-
+![Metrics](https://github.com/Poornamadhushan/Poornamadhushan/blob/main/github-metrics.svg)
 
 ---
 
