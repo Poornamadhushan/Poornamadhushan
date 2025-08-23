@@ -91,8 +91,18 @@ Passionate about building innovative solutions with **AI, Cloud, and Modern Web 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Poornamadhushan&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 ---
+
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Poornamadhushan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+
+
+
+
 
 ---
 
