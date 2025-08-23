@@ -89,8 +89,7 @@ Passionate about building innovative solutions with **AI, Cloud, and Modern Web 
 
 ## 🏆 GitHub Trophies  
 
-![](https://github-profile-trophy.vercel.app/?username=Poornamadhushan&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
