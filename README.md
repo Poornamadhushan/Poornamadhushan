@@ -3,7 +3,6 @@
 
 Passionate about building innovative solutions with **AI, Cloud, and Modern Web Development**.  
 
-
 ---
 
 ## 🚀 About Me
@@ -26,11 +25,17 @@ Passionate about building innovative solutions with **AI, Cloud, and Modern Web 
 
 ## 🌐 Socials  
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/poornamadushan1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/poorna.madushan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/poorna-madhushan/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@poornamadushan846) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PoornaMadushan5) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@poornamadushan4662) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Poorna.Madhushan@studentambassadors.com)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/poornamadushan1) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/poorna.madushan) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/poorna-madhushan/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@poornamadushan846) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PoornaMadushan5) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@poornamadushan4662) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Poorna.Madhushan@studentambassadors.com)  
 
+---
 
-
- # 💻 Tech Stack:  
+# 💻 Tech Stack:  
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -89,8 +94,7 @@ Passionate about building innovative solutions with **AI, Cloud, and Modern Web 
 
 ## 🏆 GitHub Trophies  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Poornamadhushan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Poornamadhushan&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)  
 
 ---
 
@@ -116,4 +120,3 @@ Passionate about building innovative solutions with **AI, Cloud, and Modern Web 
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
