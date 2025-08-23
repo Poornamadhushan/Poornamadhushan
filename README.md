@@ -93,13 +93,11 @@ Passionate about building innovative solutions with **AI, Cloud, and Modern Web 
 ---
 
 
-## 🏆 GitHub Trophies
+## 📈 Top Languages  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Poornamadhushan&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poornamadhushan&layout=compact&theme=onedark" alt="Top Languages"/>
 </p>
-
-
 ---
 
 ### ✍️ Random Dev Quote  
