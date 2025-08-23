@@ -92,12 +92,6 @@ Passionate about building innovative solutions with **AI, Cloud, and Modern Web 
 
 ---
 
-## 📊 Developer Metrics
-
-![Metrics](https://github.com/Poornamadhushan/Poornamadhushan/blob/main/github-metrics.svg)
-
----
-
 ### ✍️ Random Dev Quote  
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
